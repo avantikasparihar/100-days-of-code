@@ -11,11 +11,11 @@
 
 ### Day 2: January 03, 2021
 
-**Today's Progress**:
+**Today's Progress**: 5 medium level Linked List ques on gfg, Bootstrap module on freeCodeCamp
 
-**Thoughts:**
+**Thoughts:** solving mini challenges on freeCodeCamp helped in revising Bootstrap concepts 
 
-**Link(s) to work:** 
+**Link(s) to work:** [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar), [GeeksForGeeks](https://github.com/avantikasparihar/GeeksForGeeks/commit/8c11ad2225a4eaed4f5a8022c739a98efc8a0a1e)
 
 
 
