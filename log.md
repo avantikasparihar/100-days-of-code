@@ -29,6 +29,33 @@
 
 ### Day 4: January 05, 2021
 
+**Today's Progress**: 1 virtual and 1 live contest on codeforces(solved 6 questions in total, will upsolve more)
+
+**Thoughts:** CP always feels good, discussion with peers makes it even more fun 
+
+**Link(s) to work:** [Codeforces #612 div.2](https://codeforces.com/contest/1287),  [Codeforces #694 div.2](https://codeforces.com/contest/1471)
+
+
+### Day 4: January 05, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 4: January 05, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 4: January 05, 2021
+
 **Today's Progress**:
 
 **Thoughts:** 
