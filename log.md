@@ -36,13 +36,13 @@
 **Link(s) to work:** [Codeforces #612 div.2](https://codeforces.com/contest/1287),  [Codeforces #694 div.2](https://codeforces.com/contest/1471)
 
 
-### Day 4: January 05, 2021
+### Day 5: January 06, 2021
 
-**Today's Progress**:
+**Today's Progress**: 6 easy level questions based on Stack on gfg, jQuery module on freeCodeCamp
 
-**Thoughts:** 
+**Thoughts:** didn't do much for the first half of the day but 6PM onwards was quite productive
 
-**Link(s) to work:** 
+**Link(s) to work:** [GeeksForGeeks](https://github.com/avantikasparihar/GeeksForGeeks/commit/497675423fe9996aa12b532db7e00978519dc6ee), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar) 
 
 
 ### Day 4: January 05, 2021
