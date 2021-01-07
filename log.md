@@ -45,13 +45,13 @@
 **Link(s) to work:** [GeeksForGeeks](https://github.com/avantikasparihar/GeeksForGeeks/commit/497675423fe9996aa12b532db7e00978519dc6ee), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar) 
 
 
-### Day 4: January 05, 2021
+### Day 6: January 07, 2021
 
-**Today's Progress**:
+**Today's Progress**: upsolved a previous codeforces contest, completed Sass module on freeCodeCamp
 
-**Thoughts:** 
+**Thoughts:** will take up more courses/hands-on projects to learn Sass
 
-**Link(s) to work:** 
+**Link(s) to work:** [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
 
 
 ### Day 4: January 05, 2021
