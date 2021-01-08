@@ -54,6 +54,42 @@
 **Link(s) to work:** [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
 
 
+### Day 7: January 08, 2021
+
+**Today's Progress**: 1 virtual and 1 live contest on codeforces(solved 5 problems)
+
+**Thoughts:** gave a really b-a-a-a-a-d codeforces round :))
+
+**Link(s) to work:** [Codeforces #689 div.2](https://codeforces.com/contest/1457), [Codeforces #695 div.2](https://codeforces.com/contest/1467)
+
+
+### Day 4: January 05, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 4: January 05, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 4: January 05, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
 ### Day 4: January 05, 2021
 
 **Today's Progress**:
