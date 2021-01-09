@@ -63,13 +63,13 @@
 **Link(s) to work:** [Codeforces #689 div.2](https://codeforces.com/contest/1457), [Codeforces #695 div.2](https://codeforces.com/contest/1467)
 
 
-### Day 4: January 05, 2021
+### Day 8: January 09, 2021
 
-**Today's Progress**:
+**Today's Progress**: upsolved a contest on codeforces
 
-**Thoughts:** 
+**Thoughts:** did only the bare minimum. was caught up with other things.
 
-**Link(s) to work:** 
+**Link(s) to work:** NA
 
 
 ### Day 4: January 05, 2021
