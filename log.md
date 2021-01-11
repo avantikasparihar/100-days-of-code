@@ -72,13 +72,13 @@
 **Link(s) to work:** NA
 
 
-### Day 4: January 05, 2021
+### Day 9: January 10, 2021
 
-**Today's Progress**:
+**Today's Progress**: two virtual contests(div3 & div2) on codeforces(8 ques)
 
-**Thoughts:** 
+**Thoughts:** not able to manage time properly, schedule needs to be tweaked
 
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #535 div.3](https://codeforces.com/contest/1108), [Codeforces #593 div.2](https://codeforces.com/contest/1236)
 
 
 ### Day 4: January 05, 2021
