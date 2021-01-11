@@ -81,13 +81,13 @@
 **Link(s) to work:** [Codeforces #535 div.3](https://codeforces.com/contest/1108), [Codeforces #593 div.2](https://codeforces.com/contest/1236)
 
 
-### Day 4: January 05, 2021
+### Day 10: January 11, 2021
 
-**Today's Progress**:
+**Today's Progress**: one virtual contest(Ed round) on codeforces(4 ques), started re-learning React
 
-**Thoughts:** 
+**Thoughts:** enough work for one day
 
-**Link(s) to work:** 
+**Link(s) to work:** [Ed Codeforces Round 82](https://codeforces.com/contest/1303), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
 
 
 ### Day 4: January 05, 2021
