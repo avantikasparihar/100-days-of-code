@@ -90,6 +90,51 @@
 **Link(s) to work:** [Ed Codeforces Round 82](https://codeforces.com/contest/1303), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
 
 
+### Day 11: January 12, 2021
+
+**Today's Progress**: one virtual contest(div3) on codeforces(6 ques)
+
+**Thoughts:** no dev day, yet again :))
+
+**Link(s) to work:** [Codeforces #575 div.3](https://codeforces.com/contest/1196)
+
+
+### Day 12: January 13, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 4: January 05, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 4: January 05, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 4: January 05, 2021
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
 ### Day 4: January 05, 2021
 
 **Today's Progress**:
