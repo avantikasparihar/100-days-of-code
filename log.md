@@ -101,11 +101,11 @@
 
 ### Day 12: January 13, 2021
 
-**Today's Progress**:
+**Today's Progress**: one virtual contest(Ed Round) on codeforces(4 ques), studied components and props in React
 
-**Thoughts:** 
+**Thoughts:** it's just to cold for me to type anymore
 
-**Link(s) to work:** 
+**Link(s) to work:** [Ed Codeforces Round 99](https://codeforces.com/contest/1455), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
 
 
 ### Day 4: January 05, 2021
