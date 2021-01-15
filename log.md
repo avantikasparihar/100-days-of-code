@@ -108,7 +108,7 @@
 **Link(s) to work:** [Ed Codeforces Round 99](https://codeforces.com/contest/1455), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
 
 
-### Day 4: January 05, 2021
+### Day 13: January 14, 2021
 
 **Today's Progress**: one live contest(Ed Round) on codeforces(3 ques)
 
@@ -117,7 +117,16 @@
 **Link(s) to work:** [Ed Codeforces Round 102](https://codeforces.com/contest/1473)
 
 
-### Day 4: January 05, 2021
+### Day 14: January 15, 2021
+
+**Today's Progress**: PropTypes, states, stateful components, setState, bind, seperating state logic from UI logic in React 
+
+**Thoughts:** B got hacked in yesterday's contest. this pissed me off so much that i didnot feel like going back to CP at all. P.S. rating changes don't bother me at all :))
+
+**Link(s) to work:** [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
+
+
+### Day 15: January 16, 2021
 
 **Today's Progress**:
 
@@ -126,16 +135,7 @@
 **Link(s) to work:** 
 
 
-### Day 4: January 05, 2021
-
-**Today's Progress**:
-
-**Thoughts:** 
-
-**Link(s) to work:** 
-
-
-### Day 4: January 05, 2021
+### Day 16: January 17, 2021
 
 **Today's Progress**:
 
