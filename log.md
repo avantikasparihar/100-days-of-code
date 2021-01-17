@@ -128,11 +128,11 @@
 
 ### Day 15: January 16, 2021
 
-**Today's Progress**:
+**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
 
-**Thoughts:** 
+**Thoughts:** just another lazy day
 
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
 
 
 ### Day 16: January 17, 2021
