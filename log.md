@@ -135,10 +135,10 @@
 **Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
 
 
-### Day 16: January 17, 2021
+### Day 16-17: January 17-18, 2021
 
-**Today's Progress**:
+**Today's Progress**: one live contest(div2) on codeforces(2 ques), completed React module on freeCodeCamp
 
-**Thoughts:** 
+**Thoughts:** kinda broke the streak but okay...
 
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #696 div.2](https://codeforces.com/contest/1474), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
