@@ -135,7 +135,17 @@
 **Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
 
 
-### Day 16-17: January 17-18, 2021
+### Day 16: January 17, 2021
+
+**Today's Progress**: lifecycle hooks in React, one virtual contest(div3) on codeforces(4 ques)
+
+**Thoughts:** dev going pretty slowww
+
+**Link(s) to work:** [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar), [Codeforces #590 div.3](https://codeforces.com/contest/1234)
+
+
+
+### Day 17-18: January 18-19, 2021
 
 **Today's Progress**: one live contest(div2) on codeforces(2 ques), completed React module on freeCodeCamp
 
