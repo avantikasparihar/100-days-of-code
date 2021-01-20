@@ -152,3 +152,48 @@
 **Thoughts:** kinda broke the streak but okay...
 
 **Link(s) to work:** [Codeforces #696 div.2](https://codeforces.com/contest/1474), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
+
+
+### Day 19: January 20, 2021
+
+**Today's Progress**: one virtual contest(div3) on codeforces(5 ques), Redux module on freeCodeCamp
+
+**Thoughts:** feeling overworked today
+
+**Link(s) to work:** [Codeforces #555 div.3](https://codeforces.com/contest/1157), [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar)
+
+
+### Day 20: January 21, 2021
+
+**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+
+**Thoughts:** just another lazy day
+
+**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+
+
+### Day 15: January 16, 2021
+
+**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+
+**Thoughts:** just another lazy day
+
+**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+
+
+### Day 15: January 16, 2021
+
+**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+
+**Thoughts:** just another lazy day
+
+**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+
+
+### Day 15: January 16, 2021
+
+**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+
+**Thoughts:** just another lazy day
+
+**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
