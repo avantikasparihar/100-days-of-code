@@ -165,20 +165,20 @@
 
 ### Day 20: January 21, 2021
 
-**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+**Today's Progress**: upsolved a previous contest on codeforces
 
-**Thoughts:** just another lazy day
+**Thoughts:** tsk tsk tsk
 
-**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+**Link(s) to work:** NA
 
 
-### Day 15: January 16, 2021
+### Day 21: January 22, 2021
 
-**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+**Today's Progress**: one virtual contest(div3) on codeforces(6 ques)
 
-**Thoughts:** just another lazy day
+**Thoughts:** time to burn some midnight oils
 
-**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+**Link(s) to work:** [Codeforces #579 div.3](https://codeforces.com/contest/1203)
 
 
 ### Day 15: January 16, 2021
