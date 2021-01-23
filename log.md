@@ -181,7 +181,16 @@
 **Link(s) to work:** [Codeforces #579 div.3](https://codeforces.com/contest/1203)
 
 
-### Day 15: January 16, 2021
+### Day 22: January 23, 2021
+
+**Today's Progress**: React + Redux on freeCodeCamp, virtual contest(div2) on codeforces(4 ques)
+
+**Thoughts:** solved a 1900 rated ques on my own for the first time! also Redux is confusing afffff
+
+**Link(s) to work:** [freeCodeCamp](https://www.freecodecamp.org/avantikasparihar), [Codeforces #688 div.2](https://codeforces.com/contest/1453)
+
+
+### Day 23: January 24, 2021
 
 **Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
 
@@ -190,7 +199,25 @@
 **Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
 
 
-### Day 15: January 16, 2021
+### Day 23: January 24, 2021
+
+**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+
+**Thoughts:** just another lazy day
+
+**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+
+
+### Day 23: January 24, 2021
+
+**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+
+**Thoughts:** just another lazy day
+
+**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+
+
+### Day 23: January 24, 2021
 
 **Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
 
