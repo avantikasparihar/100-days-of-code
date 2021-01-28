@@ -192,6 +192,51 @@
 
 ### Day 23: January 24, 2021
 
+**Today's Progress**: cookoff(div2) on codechef(2 ques)
+
+**Thoughts:** codechef sucks biggg time
+
+**Link(s) to work:** NA
+
+
+### Day 24: January 25, 2021
+
+**Today's Progress**: project 1/5 of frontend lib. cert.-Random Quote machine, div3 live on codeforces(4 ques)
+
+**Thoughts:** contest turned out to be unrated, built a project on CodePen for the first time
+
+**Link(s) to work:** [codepen.io](https://codepen.io/avantikasparihar/full/vYXqeNK), [Codeforces #697 div.3](https://codeforces.com/contest/1475) 
+
+
+### Day 25: January 26, 2021
+
+**Today's Progress**: a 3-hour long hiring coding round (2 ques)
+
+**Thoughts:** quite disappointing :))
+
+**Link(s) to work:** NA
+
+
+### Day 26: January 27, 2021
+
+**Today's Progress**: div2 virtual on codeforces(4 ques), project 2/5 of frontend lib. cert.- Markdown Previewer
+
+**Thoughts:** project still needs a lil bit of tweaking
+
+**Link(s) to work:** [Codeforces #520 div.2](https://codeforces.com/contest/1062), [codepen.io](https://codepen.io/avantikasparihar/full/QWGLWxR)
+
+
+### Day 27: January 28, 2021
+
+**Today's Progress**: div2 live on codeforces(4 ques)
+
+**Thoughts:** was a gooood contest ^.^
+
+**Link(s) to work:** [Codeforces #698 div.2](https://codeforces.com/contest/1478)
+
+
+### Day 28: January 29, 2021
+
 **Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
 
 **Thoughts:** just another lazy day
@@ -199,7 +244,7 @@
 **Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
 
 
-### Day 23: January 24, 2021
+### Day 29: January 30, 2021
 
 **Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
 
@@ -208,16 +253,7 @@
 **Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
 
 
-### Day 23: January 24, 2021
-
-**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
-
-**Thoughts:** just another lazy day
-
-**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
-
-
-### Day 23: January 24, 2021
+### Day 30: January 31, 2021
 
 **Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
 
