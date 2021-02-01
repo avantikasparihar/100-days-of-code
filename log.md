@@ -237,26 +237,80 @@
 
 ### Day 28: January 29, 2021
 
-**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+**Today's Progress**: Ed round div2 live on codeforces(3 ques)
 
-**Thoughts:** just another lazy day
+**Thoughts:** didnot go so smooth
 
-**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+**Link(s) to work:** [Ed Codeforces Round 103](https://codeforces.com/contest/1476)
 
 
 ### Day 29: January 30, 2021
 
-**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+**Today's Progress**: lunchtime div2 live on CodeChef(4 ques)
 
-**Thoughts:** just another lazy day
+**Thoughts:** server problems as usual
 
-**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+**Link(s) to work:** NA
 
 
 ### Day 30: January 31, 2021
 
-**Today's Progress**: one virtual contest(div3) on codeforces(7 ques)
+**Today's Progress**: two virtual contests(div3, div2) + upsolving on #codeforces(9 ques)
 
-**Thoughts:** just another lazy day
+**Thoughts:** super tired, more of dev+projects tomorrow
 
-**Link(s) to work:** [Codeforces #595 div.3](https://codeforces.com/contest/1249)
+**Link(s) to work:** [Codeforces #501 div.3](https://codeforces.com/contest/1015), [Codeforces #530 div.2](https://codeforces.com/contest/1099)
+
+
+### Day 31: February 01, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 32: February 02, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 33: February 03, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 34: February 04, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 35: February 05, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 36: February 06, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
