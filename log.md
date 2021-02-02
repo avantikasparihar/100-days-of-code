@@ -264,11 +264,11 @@
 
 ### Day 31: February 01, 2021
 
-**Today's Progress**: 
+**Today's Progress**: div3 virtual on codeforces(4 ques)
 
-**Thoughts:** 
+**Thoughts:** procrastinated dev yet again :))
 
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #494 div.3](https://codeforces.com/contest/1003)
 
 
 ### Day 32: February 02, 2021
