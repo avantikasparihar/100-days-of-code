@@ -273,38 +273,38 @@
 
 ### Day 32: February 02, 2021
 
-**Today's Progress**: 
+**Today's Progress**: div3 virtual on codeforces(5 ques), started drum machine project
 
-**Thoughts:** 
+**Thoughts:** boring
 
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #521 div.3](https://codeforces.com/contest/1077)
 
 
 ### Day 33: February 03, 2021
 
-**Today's Progress**: 
+**Today's Progress**: div3 virtual on codeforces(5 ques), more on the drum machine project
 
-**Thoughts:** 
+**Thoughts:** a day full of chit-chatting
 
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #490 div.3](https://codeforces.com/contest/999)
 
 
 ### Day 34: February 04, 2021
 
-**Today's Progress**: 
+**Today's Progress**: div3 virtual on codeforces(4 ques)
 
-**Thoughts:** 
+**Thoughts:** lazy
 
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #527 div.3](https://codeforces.com/contest/1092)
 
 
 ### Day 35: February 05, 2021
 
-**Today's Progress**: 
+**Today's Progress**: div2 live on codeforces(2 ques)
 
-**Thoughts:** 
+**Thoughts:** brain jammed in the 3rd ques without success
 
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #699 div.2](https://codeforces.com/contest/1481)
 
 
 ### Day 36: February 06, 2021
