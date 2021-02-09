@@ -309,6 +309,33 @@
 
 ### Day 36: February 06, 2021
 
+**Today's Progress**: project 3/5 of frontend lib. cert.- Drum Machine
+
+**Thoughts:** finally finished this one
+
+**Link(s) to work:** [codepen.io](https://codepen.io/avantikasparihar/full/ZEBGKKL)
+
+
+### Day 37: February 07, 2021
+
+**Today's Progress**: div2 live on codeforces(3 ques)
+
+**Thoughts:** bored and angry
+
+**Link(s) to work:** [Codeforces #700 div.2](https://codeforces.com/contest/1480)
+
+
+### Day 38-39: February 08-09, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 40: February 10, 2021
+
 **Today's Progress**: 
 
 **Thoughts:** 
