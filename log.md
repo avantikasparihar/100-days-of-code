@@ -327,6 +327,69 @@
 
 ### Day 38-39: February 08-09, 2021
 
+**Today's Progress**: div3 virtual on codeforces(5 ques) + upsolved prev contests
+
+**Thoughts:** :))
+
+**Link(s) to work:** [Codeforces #529 div.3](https://codeforces.com/contest/1095)
+
+
+### Day 40: February 10, 2021
+
+**Today's Progress**: div3 virtual on codeforces(4 ques), javascript calculator project
+
+**Thoughts:** bored
+
+**Link(s) to work:** [Codeforces #531 div.3](https://codeforces.com/contest/1102)
+
+
+### Day 41: February 11, 2021
+
+**Today's Progress**: javascript calculator project
+
+**Thoughts:** officially did the least amount of coding today. approx only about 25min.
+
+**Link(s) to work:** NA
+
+
+### Day 42: February 12, 2021
+
+**Today's Progress**: div2 live on codeforces(3 ques)
+
+**Thoughts:** meh.
+
+**Link(s) to work:** [Codeforces #701 div.2](https://codeforces.com/contest/1485)
+
+
+### Day 43-45: February 13-15, 2021
+
+**Today's Progress**: javascript calculator project, ed round live on codeforces(2 ques)
+
+**Thoughts:** :)))
+
+**Link(s) to work:** [Ed Codeforces Round 104](https://codeforces.com/contest/1487)
+
+
+### Day 46: February 16, 2021
+
+**Today's Progress**: OS, div3 live on codeforces(4 ques)
+
+**Thoughts:** better still.
+
+**Link(s) to work:** [Codeforces #702 div.3](https://codeforces.com/contest/1490)
+
+
+### Day 47: February 17, 2021
+
+**Today's Progress**: OS concepts
+
+**Thoughts:** not that boring.
+
+**Link(s) to work:** NA
+
+
+### Day 48: February 18, 2021
+
 **Today's Progress**: 
 
 **Thoughts:** 
@@ -334,7 +397,16 @@
 **Link(s) to work:** 
 
 
-### Day 40: February 10, 2021
+### Day 49: February 19, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 50: February 20, 2021
 
 **Today's Progress**: 
 
