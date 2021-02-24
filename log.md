@@ -415,25 +415,25 @@
 **Link(s) to work:** NA
 
 
-### Day 51: February 21, 2021
+### Day 51-52: February 21-22, 2021
 
-**Today's Progress**: 
+**Today's Progress**: OS course, div3 vir on codeforces(5 ques), pomodoro clock project
 
-**Thoughts:** 
+**Thoughts:** finally completed the front end lib. cert. on #freeCodeCamp(took me almost 2 months)
 
-**Link(s) to work:** 
-
-
-### Day 50: February 20, 2021
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link(s) to work:** 
+**Link(s) to work:** [Codeforces #611 div.3](https://codeforces.com/contest/1283), [codepen.io](https://codepen.io/avantikasparihar/full/KKNqdoZ)
 
 
-### Day 50: February 20, 2021
+### Day 53-54: February 23-24, 2021
+
+**Today's Progress**: div2 live(3 ques), div3 virtual(5 ques) on codeforces
+
+**Thoughts:** have decided to learn introductory data analytics/visualisation, wish to add a few different kinda projects to the cv
+
+**Link(s) to work:** [Codeforces #704 div.2](https://codeforces.com/contest/1492), [Codeforces #540 div.3](https://codeforces.com/contest/1118)
+
+
+### Day 55: February 25, 2021
 
 **Today's Progress**: 
 
