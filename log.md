@@ -390,6 +390,33 @@
 
 ### Day 48: February 18, 2021
 
+**Today's Progress**: javascript calculator project, div2 live on codeforces(3 ques)
+
+**Thoughts:** it's finally completed.
+
+**Link(s) to work:** [codepen.io](https://codepen.io/avantikasparihar/full/RwoapWN), [Codeforces #703 div.2](https://codeforces.com/contest/1486)
+
+
+### Day 49: February 19, 2021
+
+**Today's Progress**: OS concepts, div3 virtual on codeforces(5 ques)
+
+**Thoughts:** i'm stupid to assume that i'll improve miraculously in cp :))
+
+**Link(s) to work:** [Codeforces #550 div.3](https://codeforces.com/contest/1144)
+
+
+### Day 50: February 20, 2021
+
+**Today's Progress**: OS concepts, pomodoro clock project
+
+**Thoughts:** what do you mean i'm only half way through yet!?
+
+**Link(s) to work:** NA
+
+
+### Day 51: February 21, 2021
+
 **Today's Progress**: 
 
 **Thoughts:** 
@@ -397,7 +424,25 @@
 **Link(s) to work:** 
 
 
-### Day 49: February 19, 2021
+### Day 50: February 20, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 50: February 20, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+
+### Day 50: February 20, 2021
 
 **Today's Progress**: 
 
